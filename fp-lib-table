@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name Connector_Samtec_HLE_SMD-ML)(type KiCad)(uri ${KIPRJMOD}/footprints/Connector_Samtec_HLE_SMD-ML.pretty)(options "")(descr ""))
+  (lib (name CUI)(type KiCad)(uri ${KIPRJMOD}/footprints/CUI.pretty)(options "")(descr ""))
+  (lib (name CHS)(type KiCad)(uri ${KIPRJMOD}/footprints/CHS.pretty)(options "")(descr ""))
+  (lib (name CK)(type KiCad)(uri ${KIPRJMOD}/footprints/CK.pretty)(options "")(descr ""))
+  (lib (name BOURNS)(type KiCad)(uri ${KIPRJMOD}/footprints/BOURNS.pretty)(options "")(descr ""))
+)

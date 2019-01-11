@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name Connector-ML)(type Legacy)(uri ${KIPRJMOD}/symbols/Connector-ML.lib)(options "")(descr ""))
+  (lib (name mcp2003b)(type Legacy)(uri ${KIPRJMOD}/symbols/mcp2003b.lib)(options "")(descr ""))
+  (lib (name cui)(type Legacy)(uri ${KIPRJMOD}/symbols/cui.lib)(options "")(descr ""))
+  (lib (name cat24c32)(type Legacy)(uri ${KIPRJMOD}/symbols/cat24c32.lib)(options "")(descr ""))
+  (lib (name RPi_Zero_pHat_Template-rescue)(type Legacy)(uri ${KIPRJMOD}/RPi_Zero_pHat_Template-rescue.lib)(options "")(descr ""))
+)
